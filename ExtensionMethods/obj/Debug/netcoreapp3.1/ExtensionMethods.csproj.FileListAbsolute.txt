@@ -1,0 +1,14 @@
+C:\Users\emil code\Desktop\task03_17\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+C:\Users\emil code\Desktop\task03_17\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+C:\Users\emil code\Desktop\task03_17\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+C:\Users\emil code\Desktop\task03_17\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\emil code\Desktop\task03_17\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\emil code\Desktop\task03_17\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\emil code\Desktop\task03_17\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\emil code\Desktop\task03_17\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil code\Desktop\task03_17\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\emil code\Desktop\task03_17\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\emil code\Desktop\task03_17\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\emil code\Desktop\task03_17\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\emil code\Desktop\task03_17\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\emil code\Desktop\task03_17\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.genruntimeconfig.cache
